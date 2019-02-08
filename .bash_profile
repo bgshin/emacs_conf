@@ -7,3 +7,4 @@ export LSCOLORS="ExGxcxdxbxegedabagacad"
 . ~/fancy-prompt.sh
 
 ulimit -c unlimited
+export TPU_NAME=btpu
